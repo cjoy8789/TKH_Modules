@@ -1,0 +1,37 @@
+﻿Module 1: What is code? Reading and reflection. 
+Module 1 Objective: To read and reflect on the nature of code and creation through digitized data and software. 
+Read Article: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/ 
+Answer the following questions in a .txt file saved as: What_is_code_reflection 
+
+Q:In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+A:Once a key is pressed the computer uses it’s given information and memory to write a code that represents that specific key which was pressed. 
+
+Q:In your own words, how do computers use input and output to create experiences? (250 words max) 
+A:For each input there is an output. When coding, these micro actions work together or build on  each other to create an experience.    
+
+Q:Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+A:First, the interweb is infinite based upon quantum mechanics. Second, software can also be replicated and essentially called nothings because it is not just physical.   
+
+Q:Explain in your own words how code becomes software. (150 words max)
+A:Code is what the data scientist uses to solve the error in the software. When coding lines of inputs that creates outputs, those outputs combine and become updated software.  
+
+Q:Explain “algorithms” in your own words. (150 wordsmax) 
+A:“Algorithms are software.” Algorithms use and connect data through graphs and calculations to solve a problem by a computer. 
+
+Q:Explain the DRY principle. (100 words max) 
+A:The DRY principle is an acronym for “Don’t Repeat Yourself”. A major goal in successful programming is to write the code and let the computer do the repeating. It saves your time and energy for bigger problems to solve.   
+
+Q:In your own words, what is object-oriented programming? (100 words max) 
+A:Interpreting, categorizing and organizing code in files creates a programming library. It connects a group of similar functions into a unit. That unit is called an object. There are four pillars to OOP-- encapsulation, abstraction, inheritance, and polymorphism. Grouping related variables and functions that operate on them into objects is what encapsulating means. Hiding properties and methods from the outside is abstraction. This helps showcase a simpler interface and reduce the impact of change when dealing with the code itself. Inherence is a mechanism that will eliminate redundancy. Lastly, polymorphism essentially means many forms. It allows one to remove long switch/case statements. Overall, OOP reuses complexity
+
+Q:In your own words explain data and how it relates to code. (100 Words max) 
+A:Code is programming instructions and it helps process and store the information which is the data.
+
+Q:What is a framework? (150 words max)
+A:A Framework is a platform which guides software developers on developing software applications by giving a foundation where they can build upon. 
+
+Q:What is debugging? (150 words max)
+A:“Programming is debugging.” De is the prefix of remove and bugs in programming are errors or unexpected results.
+
+Q:Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max) 
+A:I believe learning to code is core to understanding and successfully living in this digital age. Similar to learning a common language allows us to connect, communicate effectively, learn, and evolve, learning code allows us to truly understand the technology in our hands and solve problems some would have never thought as possible. I want to acclimate myself as the world transitions to an increasingly digital environment because it is very intriguing to me as I learn more about the inner workings or the Behind The Scenes of technology and I will continue on this journey because I aspire to be a software architect.

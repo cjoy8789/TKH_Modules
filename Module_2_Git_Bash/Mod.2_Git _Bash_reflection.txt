@@ -1,0 +1,20 @@
+﻿Module 2: Git and Bash Fundamentals 
+Module 2 Objective: Learning to navigate and create project structure through the terminal, and to save and share code with git and github. 
+1) We are going to make two files 1 is a README File which will add text and titles to our GitHub repo
+.2) We will create a module2.txt file in the Module 2 folder in it you will write in your own words the answer to the following 3 questions: 
+
+
+2.a) What is Git and how is it different than github 
+*Git is a control system that allows you to code and create files or folders. GitHub is a platform that stores created files and allows you  to manage repositories.
+
+
+2.b) Why use the terminal
+*The terminal is key to create and automate tasks (text based commands) on your computer. 
+
+
+2.c) Explain 3 benefits version control in your own words
+*The first benefit of version control is that it saves repo history. Second, it is used in coordinated teams and third, it allows one to safely test and create new features. 
+
+
+3) Create a new branch Module2, check into it and push the new files. 
+4) Merge Module2 into Master.
