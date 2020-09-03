@@ -1,0 +1,10 @@
+personal budget app.JS
+
+const name = prompt('Molly:');
+
+const Weekly Income = parseInt("N/A:"))
+const Food Cost = parseInt("N/A:"))
+const Houseing Cost = parseInt("N/A:"))
+const Transportation Cost = parseInt("N/A:"))
+const Other Cost = parseInt("N/A:"))
+const How much you want to save in a year = parseInt("N/A:"))
